@@ -1,0 +1,83 @@
+[
+  {
+    "train_no": 68056,
+    "station_no": 4,
+    "distance_from_origin": 16.0,
+    "prev_station_delay_mins": 0,
+    "month": 4,
+    "day_of_week": 6,
+    "is_weekend": 1,
+    "arrival_hour": 8,
+    "distance_from_prev_station": 5.0,
+    "ACTUAL_REAL_WORLD_DELAY": 0
+  },
+  {
+    "train_no": 13403,
+    "station_no": 24,
+    "distance_from_origin": 502.0,
+    "prev_station_delay_mins": 3,
+    "month": 10,
+    "day_of_week": 2,
+    "is_weekend": 0,
+    "arrival_hour": 7,
+    "distance_from_prev_station": 16.0,
+    "ACTUAL_REAL_WORLD_DELAY": 12
+  },
+  {
+    "train_no": 13252,
+    "station_no": 3,
+    "distance_from_origin": 621.0,
+    "prev_station_delay_mins": 21,
+    "month": 1,
+    "day_of_week": 4,
+    "is_weekend": 0,
+    "arrival_hour": 9,
+    "distance_from_prev_station": 197.0,
+    "ACTUAL_REAL_WORLD_DELAY": 125
+  }
+]
+
+
+
+
+
+
+
+[
+  {
+    "train_no": 59605,
+    "station_no": 12,
+    "distance_from_origin": 124.0,
+    "prev_station_delay_mins": 0,
+    "month": 3,
+    "day_of_week": 1,
+    "is_weekend": 0,
+    "arrival_hour": 20,
+    "distance_from_prev_station": 11.0,
+    "ACTUAL_REAL_WORLD_DELAY": -20
+  },
+  {
+    "train_no": 69101,
+    "station_no": 17,
+    "distance_from_origin": 85.0,
+    "prev_station_delay_mins": 1,
+    "month": 9,
+    "day_of_week": 2,
+    "is_weekend": 0,
+    "arrival_hour": 9,
+    "distance_from_prev_station": 3.0,
+    "ACTUAL_REAL_WORLD_DELAY": 0
+  },
+  {
+    "train_no": 53012,
+    "station_no": 3,
+    "distance_from_origin": 7.0,
+    "prev_station_delay_mins": 0,
+    "month": 7,
+    "day_of_week": 2,
+    "is_weekend": 0,
+    "arrival_hour": 7,
+    "distance_from_prev_station": 3.0,
+    "ACTUAL_REAL_WORLD_DELAY": 0
+  }
+]
