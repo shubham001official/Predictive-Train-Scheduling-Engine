@@ -12,9 +12,9 @@
 
 [![Frontend](https://img.shields.io/badge/Live-Dashboard-red?style=for-the-badge\&logo=streamlit)](http://congnixai-indian-railway-optimization.hf.space)
 [![Backend](https://img.shields.io/badge/API-FastAPI-009688?style=for-the-badge\&logo=fastapi)](https://congnixai-indian-railway-optimzation-backend.hf.space)
-[![Python](https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge\&logo=python)]
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Data_Engineering-336791?style=for-the-badge\&logo=postgresql)]
-[![XGBoost](https://img.shields.io/badge/ML-XGBoost-orange?style=for-the-badge)]
+![Python](https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge\&logo=python)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Data_Engineering-336791?style=for-the-badge\&logo=postgresql)
+![XGBoost](https://img.shields.io/badge/ML-XGBoost-orange?style=for-the-badge)
 
 </div>
 
@@ -66,11 +66,11 @@ RailOptima converts **~35.5 million historical telemetry records** into actionab
 
 ### Core Capabilities
 
-✔ Predicts train delay duration using machine learning
-✔ Models sequential delay propagation using SQL window functions
-✔ Reduces high-memory processing workloads by **87%**
-✔ Generates intelligent scheduling buffer recommendations
-✔ Exposes predictions through scalable microservices architecture
+✔ Predicts train delay duration using machine learning<br>
+✔ Models sequential delay propagation using SQL window functions<br>
+✔ Reduces high-memory processing workloads by **87%**<br>
+✔ Generates intelligent scheduling buffer recommendations<br>
+✔ Exposes predictions through scalable microservices architecture<br>
 ✔ Delivers executive-friendly operational dashboards
 
 ---
